@@ -10,7 +10,7 @@ humandate: "28-29 June, 2018"    # human-readable dates for the workshop (e.g., 
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-06-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-06-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["belinda Weaver", "Nicholas Hamilton] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Belinda Weaver", "Nicholas Hamilton] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["n.hamilton@imb.uq.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -50,6 +50,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %}
   INTRODUCTION
+  
+  This is a dedicated tie-in Software Carpentry workshop for attendees of the <a href="http://bioinformatics.org.au/winterschool/">UQ Winter School</a>, which runs from 2-6 July.
 
   Edit the general explanatory paragraph below if you want to change
   the pitch.
