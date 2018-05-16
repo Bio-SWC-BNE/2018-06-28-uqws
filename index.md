@@ -143,16 +143,9 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
 </p>
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>Accessible toilet are available.</li>
 </ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
+
 
 {% comment %}
   CONTACT EMAIL ADDRESS
@@ -516,6 +509,7 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
+<!--
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -608,6 +602,7 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
+-->
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
@@ -660,6 +655,7 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+<!--
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
@@ -752,7 +748,8 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
-
+-->
+<!--
 {% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
@@ -777,4 +774,5 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
     </li>
   </ol>
 </div>
+-->
 {% endcomment %}
