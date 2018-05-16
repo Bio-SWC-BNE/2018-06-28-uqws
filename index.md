@@ -772,7 +772,7 @@ eventbrite:   "46136411248"        # optional: alphanumeric key for Eventbrite r
       Load the VM into VirtualBox by selecting "Import Appliance" and
       loading the <code>.ova</code> file.
     </li>
-  </ol>
+  </ol> -->
 </div>
--->
+
 {% endcomment %}
